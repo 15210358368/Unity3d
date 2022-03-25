@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by nAcer (Stu) -->
+<Nodes>
+	<Node ID="1" Name="花语月" Backgroud="Point" Image ="1001,1002,1003,over" BG ="BG1"/>
+	<Node ID="2" Name="花语月" Backgroud="Point" Image ="2001,2002,2003,over" BG ="1"/>
+	<Node ID="3" Name="花语月" Backgroud="Point" Image ="3001,3002,3003,over" BG ="BG1"/>
+	<Node ID="4" Name="花语月" Backgroud="Point" Image ="4001,4002,4003,over" BG ="BG1"/>
+    <Node ID="5" Name="花语月" Backgroud="Point" Image ="5001,5002,5003,over" BG ="BG1"/>
+	<Node ID="6" Name="花语月" Backgroud="Point" Image ="6001,6002,6003,over" BG ="BG1"/>
+</Nodes>

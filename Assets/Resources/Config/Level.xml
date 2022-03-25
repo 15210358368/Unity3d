@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by nAcer (Stu) -->
+<Nodes>
+	<Node ID="1001" PointCount="9" pointNumber="1,4,7,8,9,6,3,2,5" ShowEffect="pattern" SceneID="1"/>
+	<Node ID="1002" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="1"/>
+	<Node ID="1003" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="1"/>
+	<Node ID="2001" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="2"/>
+	<Node ID="2002" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="2"/>
+	<Node ID="2003" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="2"/>
+	<Node ID="3001" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="3"/>
+	<Node ID="3002" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="3"/>
+	<Node ID="3003" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="3"/>
+	<Node ID="4001" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="4"/>
+	<Node ID="4002" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="4"/>
+	<Node ID="4003" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="4"/>
+	<Node ID="5001" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="5"/>
+	<Node ID="5002" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="5"/>
+	<Node ID="5003" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="5"/>
+	<Node ID="6001" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="6"/>
+	<Node ID="6002" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="6"/>
+	<Node ID="6003" PointCount="9" pointNumber="1,2,3,4,5,6,7,8,9" ShowEffect="pattern" SceneID="6"/>
+</Nodes>
