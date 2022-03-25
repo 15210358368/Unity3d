@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Config/Level.xml">
+    <Files>
+      <File FileName="Assets/Script/TimerMeneger.cs" Line="14" Column="2" />
+      <File FileName="Assets/Script/PointControl.cs" Line="18" Column="2" />
+      <File FileName="Assets/Script/LoadConfig.cs" Line="16" Column="2" />
+      <File FileName="Assets/Script/SavePNG.cs" Line="63" Column="30" />
+      <File FileName="Assets/Script/SetControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GalleryScreenshotExample.cs" Line="1" Column="1" />
+      <File FileName="Assets/SmartXmlParser/XmlHelper.cs" Line="1" Column="1" />
+      <File FileName="Assets/Sprites/animations.txt" Line="1" Column="1" />
+      <File FileName="Assets/Script/Main.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/CaptureUnity.cs" Line="29" Column="16" />
+      <File FileName="Assets/Plugins/ScreenshotManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/SmartXmlParser/TableParser.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Config/Config.xml" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Config/Level.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
